@@ -1,0 +1,1 @@
+Este algoritmo controla el flujo de datos de entradas tomando como referencias edades y atractivos de un parque de diversion. 
